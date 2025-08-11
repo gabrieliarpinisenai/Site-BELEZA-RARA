@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beleza Rara</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/BelezaRara.css">
+
+</head>
+
+<body>
+    <div class="top-bar">
+        FRETE GRÁTIS EM TODAS AS COMPRAS
+    </div>
+
+
+    <header class="header">
+        <!-- Menu -->
+        <nav>
+            <ul>
+                <li>BEST-SELLERS</li>
+                <li>SKINCARE</li>
+                <li>SHOP ALL</li>
+                <li>MAKEUP</li>
+                <li>TIPO DE PELE</li>
+                <li>LANÇAMENTOS</li>
+                <li>KITS</li>
+                <li>CUIDADO CORPORAL</li>
+                <li>PEOPLE COLOUR</li>
+                <li>QUIZ</li>
+                <li>SOBRE A SIMPLE</li>
+            </ul>
+        </nav>
+
+        <!-- Logo central -->
+        <div class="logo">SIMPLE ORGANIC</div>
+
+        <!-- Ícones à direita -->
+        <div class="icons">
+            <span>👤 Acesse sua conta</span>
+            <img src="https://img.icons8.com/ios/50/search--v1.png" alt="Buscar">
+            <img src="https://img.icons8.com/ios/50/shopping-bag--v1.png" alt="Carrinho">
+        </div>
+    </header>
+
+
+</body>
